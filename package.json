@@ -1,0 +1,21 @@
+{
+  "name": "userinfo",
+  "version": "1.0.0",
+  "description": "用户中心页面",
+  "main": ".eslintrc.js",
+  "dependencies": {
+    "avalon2": "^2.1.14",
+    "koa": "^2.0.0-alpha.7"
+  },
+  "devDependencies": {
+    "babel-core": "^6.14.0",
+    "babel-polyfill": "^6.13.0",
+    "babel-preset-es2015": "^6.14.0",
+    "babel-preset-stage-3": "^6.11.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xushuqin",
+  "license": "ISC"
+}
